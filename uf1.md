@@ -14,3 +14,11 @@ Ejercicios cortos para resolver en el aula. Dificultad: (b) básico, (m) medio, 
 
 
 Un **ejemplo** sería, en vez de recibir las faturas en papel con el riego de perderlas o el echo de tener que escribirla. Pasar los datos de necesarios para hacer una factura a un programa/app que facilite la creación de ellas y permite enviarlas sin tener que usar papel y tiempo.
+
+## EC1.2 Tres conceptos, tres ejemplos (b)
+
+Para cada uno de los tres conceptos siguientes, escribe un ejemplo del sector TIC que se corresponda:
+
+- **Informatización:** Cuando una tienda utiliza un ordenador para hacer las facturas en vez de hacerlo a mano
+- **Digitalización:** Cuando una empresa escanea documentos en papel para guardarlos en un ordenador.
+- **Transformación digital:** Una tienda crea una página web donde los clientes pueden comprar productos online, pagar por Internet y recibir los pedidos en casa.
