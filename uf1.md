@@ -42,3 +42,26 @@ EC1.3 Clasifica estas situaciones (b)
 | 3 | Una pyme TIC empieza a usar correo electrónico en lugar de fax. | X |  |  |
 | 4 | Un departamento de sistemas escanea todas las facturas en papel y las sube a un sistema de gestión documental. |  | X |  |
 | 5 | Una app de gestión de proyectos añade recomendaciones personalizadas con IA para cada equipo. |  |  | X |
+
+## EC1.4 Lectura de un caso: SoftDev SL (m)
+
+Lee el caso siguiente:
+> SoftDev SL es una consultora IT de 40 personas que hasta ahora hacía presupuestos a mano en Excel y enviaba las facturas en PDF por correo. Recientemente ha implantado un ERP en la nube que centraliza presupuestos, facturación, gestión de proyectos y horas del personal. Además, ha lanzado un portal de cliente donde cada cliente puede consultar el estado de sus proyectos, descargar facturas y abrir tickets de soporte. Responde:
+
+**1. ¿Qué elementos del caso corresponden a informatización y cuáles a
+digitalización?**
+
+**Informatización:** El uso del ERP en la nube para gestionar centraliza presupuestos, facturación, gestión de proyectos y horas del personal.
+
+**Digitalización:**
+- Enviar las facturas en PDF por correo electrónico.
+- Crear un portal de cliente para consultar proyectos, descargar facturas y abrir tickets de soporte.
+
+**2. ¿Hay rastro de transformación digital? Justifica la respuesta.**
+
+Sí, porque SoftDev SL pasa de usar las herramientas digitales como lo que son, herramientas, a usarlas cambiando su forma de trabajar y atender a los clientes.
+
+**3. ¿Por qué el portal de cliente es un buen ejemplo de digitalización de
+producto/servicio y no solo de proceso?**
+
+Porque ofrece un nuevo servicio a los clientes, que pueden consultar sus proyectos y consultas sin contactar directamente con la empresa.
