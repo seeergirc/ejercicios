@@ -65,3 +65,15 @@ Sí, porque SoftDev SL pasa de usar las herramientas digitales como lo que son, 
 producto/servicio y no solo de proceso?**
 
 Porque ofrece un nuevo servicio a los clientes, que pueden consultar sus proyectos y consultas sin contactar directamente con la empresa.
+
+## EC1.5 Por qué importa ahora (m)
+
+El tema explica tres fuerzas que han convergido y han hecho de la digitalización un
+factor estratégico. Resúmelas en una tabla y, para cada una, pon un ejemplo concreto
+del sector TIC que no esté en el texto.
+
+| Fuerza | Resumen (1 frase) | Ejemplo del sector TIC |
+|--------|-------------------|------------------------|
+| **Avances tecnológicos** | La tecnología ha evolucionado y permite realizar tareas de forma más rápida y eficiente. | Una empresa informática utiliza IA para detectar errores en sus programas. |
+| **Cambios en los clientes** | Los clientes demandan servicios digitales más rápidos, cómodos y personalizados. | Una consultora crea una web para que sus clientes puedan consultar el estado de sus reparaciones. |
+| **Cambios en la competencia** | Las empresas deben innovar y adaptarse a las nuevas tecnologías para seguir siendo competitivas. | Una empresa de alojamiento web ofrece servidores en la nube para competir con otras empresas del sector. |
