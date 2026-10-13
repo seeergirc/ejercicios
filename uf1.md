@@ -22,3 +22,23 @@ Para cada uno de los tres conceptos siguientes, escribe un ejemplo del sector TI
 - **Informatización:** Cuando una tienda utiliza un ordenador para hacer las facturas en vez de hacerlo a mano
 - **Digitalización:** Cuando una empresa escanea documentos en papel para guardarlos en un ordenador.
 - **Transformación digital:** Una tienda crea una página web donde los clientes pueden comprar productos online, pagar por Internet y recibir los pedidos en casa.
+
+## EC1.3 Clasifica estas situaciones (b)
+
+Marca en la casilla correcta (I = informatización, D = digitalización, T = transformación
+digital):
+T01 — Ejercicios de clase
+
+EC1.1 Qué significa digitalizar (b)
+
+EC1.2 Tres conceptos, tres ejemplos (b)
+
+EC1.3 Clasifica estas situaciones (b)
+
+| # | Situación | I | D | T |
+|---|-----------|---|---|---|
+| 1 | Una consultora IT sustituye las hojas de cálculo por un ERP en el departamento de facturación.| X | 
+| 2 | Una empresa de software pasa de vender licencias anuales a ofrecer el producto como servicio por suscripción. | | | X |
+| 3 | Una pyme TIC empieza a usar correo electrónico en lugar de fax. | X |  |  |
+| 4 | Un departamento de sistemas escanea todas las facturas en papel y las sube a un sistema de gestión documental. |  | X |  |
+| 5 | Una app de gestión de proyectos añade recomendaciones personalizadas con IA para cada equipo. |  |  | X |
