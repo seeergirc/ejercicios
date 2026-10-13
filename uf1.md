@@ -77,3 +77,17 @@ del sector TIC que no esté en el texto.
 | **Avances tecnológicos** | La tecnología ha evolucionado y permite realizar tareas de forma más rápida y eficiente. | Una empresa informática utiliza IA para detectar errores en sus programas. |
 | **Cambios en los clientes** | Los clientes demandan servicios digitales más rápidos, cómodos y personalizados. | Una consultora crea una web para que sus clientes puedan consultar el estado de sus reparaciones. |
 | **Cambios en la competencia** | Las empresas deben innovar y adaptarse a las nuevas tecnologías para seguir siendo competitivas. | Una empresa de alojamiento web ofrece servidores en la nube para competir con otras empresas del sector. |
+
+## EC1.6 Una empresa, dos momentos (r)
+
+Imagina una empresa de desarrollo web de 25 personas:
+
+- **Momento A (hace 10 años):** facturación manual, proyectos gestionados con post-its, captación de clientes por referencias, sin presencia en redes.
+
+- **Momento B (hoy):** ERP en la nube, herramientas de gestión ágil (Scrum/Kanban), marca personal de los jefes de proyecto en LinkedIn, blog técnico, comercial automatizado con un CRM, analítica web en el sitio corporativo.
+
+**¿Cuál de los dos momentos representa una transformación digital y cuál solo una digitalización? Argumenta en cinco líneas como máximo.**
+
+El momento B representa una transformación digital, porque la empresa cambia su forma de trabajar, gestionar proyectos y captar clientes.
+No solo incorpora tecnología, sino que también modifica su organización y su estrategia comercial.
+Por tanto, va más allá de la digitalización de tareas y transforma el funcionamiento del negocio.
