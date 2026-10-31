@@ -21,11 +21,17 @@ respuesta en la columna final):
 ## EC2.2 Departamentos IT de una empresa (b)
 
 Mira el organigrama de tu empresa (o el de cualquier empresa mediana del sector TIC
-que conozcas) y rellena la tabla siguiente:
+que conozcas) y rellena la tabla siguiente: 
+
+**Empresa CGI**
 
 | Área / Departamento | ¿Qué gestiona? | ¿Por qué es entorno IT? |
 |---------------------|----------------|-------------------------|
-| | | |
+| **Desarrollo de software y aplicaciones** | Diseña, desarrolla y mantiene aplicaciones y programas para sus clientes. | Trabaja con software, programación y sistemas digitales. |
+| **Ciberseguridad** | Protege los sistemas, redes y datos de los clientes frente a ciberataques. | Se encarga de la seguridad de la información y de los sistemas informáticos. |
+| **Infraestructuras y sistemas** | Gestiona servidores, redes, almacenamiento y equipos informáticos. | Administra los recursos tecnológicos necesarios para el funcionamiento de los sistemas. |
+| **Consultoría tecnológica** | Asesora a otras empresas para mejorar sus procesos mediante la tecnología. | Ayuda a implantar y optimizar soluciones y sistemas informáticos. |
+| **Integración de sistemas** | Conecta diferentes aplicaciones, plataformas y bases de datos. | Permite que distintos sistemas informáticos compartan información. |
 
 
 Si tu empresa no tiene departamentos diferenciados, elige una empresa del sector TIC de referencia (consultora, SaaS, agencia digital).
