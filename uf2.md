@@ -71,15 +71,31 @@ Lee el caso:
 
 Responde:
 
-1. ¿Cuál es el entorno IT de BIT Consultores? ¿Y cuál es el entorno OT que ahora
-entra en casa del cliente?
+1. ¿Cuál es el entorno IT de BIT Consultores? ¿Y cuál es el entorno OT que ahora entra en casa del cliente?
+
+    **IT:** Los ordenadores, servidores, redes y la plataforma en la nube.
+
+    **OT:** Los sensores IoT, las máquinas y los sistemas que controlan la climatización y otros procesos físicos del cliente.
+
 2. ¿Qué sistema hace de puente entre los dos entornos?
-3. ¿Qué tecnología habilitadora permite que un técnico de BIT vea, en tiempo real,
-el estado de la línea de producción de un cliente a 500 km?
+
+    La plataforma en la nube.
+
+3. ¿Qué tecnología habilitadora permite que un técnico de BIT vea, en tiempo real, el estado de la línea de producción de un cliente a 500 km?
+
+    El IoT.
+
 4. ¿Qué ventajas tiene para el cliente industrial?
+
+    - Detectar problemas antes de que provoquen averías.
+    - Evitar paradas inesperadas en la producción.
+    - Supervisar las instalaciones a distancia.
+
 5. ¿Qué riesgo nuevo introduce esta conexión que antes no existía?
 
-EC2.6 Ventajas de una digitalización de extremo a extremo (m)
+    Aumenta el riesgo de ciberataques, ya que los sistemas industriales estan conectados a Internet.
+
+## EC2.6 Ventajas de una digitalización de extremo a extremo (m)
 
 > La consultora IT DeltaCode ha pasado de:
 
