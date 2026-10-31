@@ -117,3 +117,9 @@ Responde:
 
 Una planta de packaging conecta su SCADA directamente a Internet para que un proveedor pueda hacer mantenimiento remoto. Identifica al menos 4 riesgos (técnicos, de seguridad u operacionales) y propón una medida de mitigación para cada uno.
 
+| Riesgo | Medida de mitigación |
+|--------|----------------------|
+| **Ciberataques:** Un atacante podría acceder al sistema SCADA y comprometer su funcionamiento. | Utilizar un firewall y controlar los accesos desde Internet. |
+| **Robo de información:** Se podrían obtener datos privados de la producción de la empresa. | Cifrar las comunicaciones y utilizar contraseñas seguras. |
+| **Parada de la producción:** Un ataque o fallo del sistema podría detener las máquinas y causar pérdidas. | Realizar copias de seguridad y disponer de un plan de recuperación. |
+| **Acceso no autorizado:** Personas ajenas podrían entrar en el sistema. | Utilizar VPN, autenticación multifactor y limitar permisos al proveedor. |
