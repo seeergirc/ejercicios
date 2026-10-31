@@ -104,15 +104,14 @@ Responde:
 - integrado con el MES de un proveedor de maquinaria,
 - y con soporte 24×7 monitorizado desde su NOC.
 
-¿Qué ventajas de extremo a extremo (del sensor al cliente) identificas? Rellena esta
-tabla con al menos 4 y justifica brevemente cada una:
+¿Qué ventajas de extremo a extremo (del sensor al cliente) identificas? Rellena esta tabla con al menos 4 y justifica brevemente cada una:
 
 | Ámbito | Ventaja | Justificación (1-2 frases) |
 |--------|---------|----------------------------|
-||||
-||||
-||||
-||||
+| Económico | Ingresos recurrentes | Al ofrecer un SaaS, DeltaCode recibe pagos periódicos de sus clientes. |
+| Operativo | Mayor eficiencia | La integración con el MES permite conectar el inventario con los procesos de producción y reducir errores. |
+| Tecnológico | Información en tiempo real | Los datos de las máquinas y del inventario están conectados, facilitando el seguimiento. |
+| Atención al cliente | Soporte 24/7 | El NOC permite supervisar los sistemas continuamente y detectar problemas para solucionarlos cuanto antes. |
 
 ## EC2.7 Riesgos de conectar OT a Internet (r)
 
