@@ -33,7 +33,6 @@ que conozcas) y rellena la tabla siguiente:
 | **Consultoría tecnológica** | Asesora a otras empresas para mejorar sus procesos mediante la tecnología. | Ayuda a implantar y optimizar soluciones y sistemas informáticos. |
 | **Integración de sistemas** | Conecta diferentes aplicaciones, plataformas y bases de datos. | Permite que distintos sistemas informáticos compartan información. |
 
-
 Si tu empresa no tiene departamentos diferenciados, elige una empresa del sector TIC de referencia (consultora, SaaS, agencia digital).
 
 ## EC2.3 Tecnología de negocio vs. de planta (b)
@@ -42,15 +41,14 @@ Para cada una de las tecnologías siguientes, marca con una cruz si la clasifica
 
 | Tecnología | Negocio | Planta |
 |------------|---------|--------|
-| ERP (SAP, Oracle, etc.)| | |
-| SCADA / HMI | | |
-| CRM (Salesforce, HubSpot) | | |
-| MES (Manufacturing Execution System) | | |
-| E-commerce (PrestaShop, Shopify) | | |
-| PLC / PAC | | |
-| BI / Data Warehouse | | |
-| Robots colaborativos (cobots) | | |
-
+| ERP (SAP, Oracle, etc.)| X | |
+| SCADA / HMI | | X |
+| CRM (Salesforce, HubSpot) | X | |
+| MES (Manufacturing Execution System) | | X |
+| E-commerce (PrestaShop, Shopify) | X | |
+| PLC / PAC | | X |
+| BI / Data Warehouse | X | |
+| Robots colaborativos (cobots) | | X |
 
 ## EC2.4 Qué hace que IT y OT se parezcan y se diferencien (m)
 
