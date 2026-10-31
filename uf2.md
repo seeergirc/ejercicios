@@ -56,12 +56,12 @@ Rellena la tabla siguiente con 3 coincidencias y 3 diferencias entre IT y OT (no
 
 | Aspecto | IT | OT | 
 | ------- | -- | -- | 
-| Coincidencia 1 | | | 
-| Coincidencia 2 | | |
-| Coincidencia 3 | | | 
-| Diferencia 1 | | | 
-| Diferencia 2 | | | 
-| Diferencia 3 | | |
+| **Coincidencia 1** | Utiliza redes para conectar ordenadores y servidores. | Utiliza redes para conectar máquinas y dispositivos industriales. | 
+| **Coincidencia 2** | Recoge, almacena y utiliza datos. | Recoge y utiliza datos de sensores y máquinas. |
+| **Coincidencia 3** | Necesita protección frente a virus y ciberataques. | También necesita protección frente a ataques informáticos. | 
+| **Diferencia 1** | Su función principal es gestionar y procesar información. | Su función principal es controlar máquinas y procesos físicos. | 
+| **Diferencia 2** | Se actualiza frecuentemente para mejorar sus sistemas. | Se actualiza con más cuidado para evitar fallos en la producción. | 
+| **Diferencia 3** | Da más importancia a proteger la confidencialidad de los datos. | Prioriza que los sistemas estén siempre disponibles y funcionando. |
 
 ## EC2.5 Convergencia IT-OT de una consultora IT (m)
 
